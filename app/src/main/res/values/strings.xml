@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Akai Haato 5-Star Resto Menu</string>
+    <string-array name="haachama_cooking">
+        <item>Octopus Ball</item>
+        <item>Burrito</item>
+        <item>Gyoza</item>
+        <item>Spaghetti Capjay</item>
+        <item>Yakinikucola</item>
+        <item>Maple Pancake</item>
+        <item>Choco Maccaroni</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>Rp 120.000</item>
+        <item>Rp 135.000</item>
+        <item>Rp 80.000</item>
+        <item>Rp 100.000</item>
+        <item>Rp 160.000</item>
+        <item>Rp 110.000</item>
+        <item>Rp 120.000</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Delicate split-open ball with an octopus filling inside</item>
+        <item>A classic burrito</item>
+        <item>Chinese iconic snack basically a chinese dumpling with seafood fillings</item>
+        <item>Spaghetti combined capjay with a volcanic sauce topping</item>
+        <item>Yakiniku soup with cola as a magnificient ingredient also some mentos to make lastful impact on your mouth !</item>
+        <item>Extraordinary pancakes with a maple sauce</item>
+        <item>Maccaroni with chocolate sauce</item>
+    </string-array>
+
+</resources>
